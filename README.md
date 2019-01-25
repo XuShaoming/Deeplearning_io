@@ -15,6 +15,11 @@ You can see the projects by clicking the hyperlinks below.
   - Implement an easy-to-use neural network class. Use non-linear units like ReLU to improve model.
 - [Deep Neural Network - Application](https://github.com/XuShaoming/Deeplearning_io/blob/master/Neural_Networks_and_Deep_Learning/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
   - Used the L-layer neural network to classifies cat vs. non-cat images.
+  
+**Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**
+- [Initialization](https://github.com/XuShaoming/Deeplearning_io/blob/master/Hyperparameter_tuning_Regularization_and_Optimization/Initialization.ipynb)
+  - d
+  
  
 
   
