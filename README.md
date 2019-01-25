@@ -28,6 +28,9 @@ You can see the projects by clicking the hyperlinks below.
   - Achieve Momentum and Adam optimiazation algorithms using exponentially weighted average. Compare their performance in different Gradient Descents. 
 - [Tensorflow](https://github.com/XuShaoming/Deeplearning_io/blob/master/Hyperparameter_tuning_Regularization_and_Optimization/Tensorflow%2BTutorial.ipynb)
   - Learn how to implement Deep Neural Network using Tensorflow.
+
+**Course 3: Structuring Machine Learning Projects**
+- Does not have programming assignment.
   
   
  
