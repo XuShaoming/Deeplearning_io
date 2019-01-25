@@ -12,7 +12,7 @@ You can see the projects by clicking the hyperlinks below.
   - Implement forward and backward propagation, tanh, and cross entropy loss gradient descent using pure numpy.
 - [Building your Deep Neural Network: Step by Step](https://github.com/XuShaoming/Deeplearning_io/blob/master/Neural_Networks_and_Deep_Learning/Building%2Byour%2BDeep%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2Bv8.ipynb)
   - Build L-layer neural network (L >= 1)
-  - Implement an easy-to-use neural network class. Use non-linear units like ReLU to improve model.
+  - Design an easy-to-use neural network class. Use non-linear units like ReLU to improve model.
 - [Deep Neural Network - Application](https://github.com/XuShaoming/Deeplearning_io/blob/master/Neural_Networks_and_Deep_Learning/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
   - Use the L-layer neural network to classifies cat vs. non-cat images.
   
