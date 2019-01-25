@@ -18,7 +18,9 @@ You can see the projects by clicking the hyperlinks below.
   
 **Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**
 - [Initialization](https://github.com/XuShaoming/Deeplearning_io/blob/master/Hyperparameter_tuning_Regularization_and_Optimization/Initialization.ipynb)
-  - d
+  - Investigate Random initialization and He initialization performance on Deep Neural network.
+- [Regularization](https://github.com/XuShaoming/Deeplearning_io/blob/master/Hyperparameter_tuning_Regularization_and_Optimization/Regularization%2B-%2Bv2.ipynb)
+  - Implement L2 regularization, Dropout, and their forward and backward propagation algorithms. 
   
  
 
