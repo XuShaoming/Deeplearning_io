@@ -21,6 +21,11 @@ You can see the projects by clicking the hyperlinks below.
   - Investigate Random initialization and He initialization performance on Deep Neural network.
 - [Regularization](https://github.com/XuShaoming/Deeplearning_io/blob/master/Hyperparameter_tuning_Regularization_and_Optimization/Regularization%2B-%2Bv2.ipynb)
   - Implement L2 regularization, Dropout, and their forward and backward propagation algorithms. 
+- [Gradient Checking](https://github.com/XuShaoming/Deeplearning_io/blob/master/Hyperparameter_tuning_Regularization_and_Optimization/Gradient%2BChecking%2Bv1.ipynb)
+  - Implement gradient checking from scratch and use it to check backpropagation implementation.
+- [Optimization](https://github.com/XuShaoming/Deeplearning_io/blob/master/Hyperparameter_tuning_Regularization_and_Optimization/Optimization%2Bmethods.ipynb)
+  - Implement Stochastic Gradient Descent and Mini-Batch Gradient Descent.
+  - Achieve Momentum and Adam optimiazation algorithms using exponentially weighted average. Compare their performance in different Gradient Descents. 
   
  
 
