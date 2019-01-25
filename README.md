@@ -26,6 +26,9 @@ You can see the projects by clicking the hyperlinks below.
 - [Optimization](https://github.com/XuShaoming/Deeplearning_io/blob/master/Hyperparameter_tuning_Regularization_and_Optimization/Optimization%2Bmethods.ipynb)
   - Implement Stochastic Gradient Descent and Mini-Batch Gradient Descent.
   - Achieve Momentum and Adam optimiazation algorithms using exponentially weighted average. Compare their performance in different Gradient Descents. 
+- [Tensorflow](https://github.com/XuShaoming/Deeplearning_io/blob/master/Hyperparameter_tuning_Regularization_and_Optimization/Tensorflow%2BTutorial.ipynb)
+  - Learn how to implement Deep Neural Network using Tensorflow.
+  
   
  
 
