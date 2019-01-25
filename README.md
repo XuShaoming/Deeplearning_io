@@ -9,7 +9,14 @@ You can see the projects by clicking the hyperlinks below.
   - Logistic regression classifier to recognize cats. 
 - [Planar data classification with one hidden layer](https://github.com/XuShaoming/Deeplearning_io/blob/master/Neural_Networks_and_Deep_Learning/Planar%2Bdata%2Bclassification%2Bwith%2Bone%2Bhidden%2Blayer%2Bv5.ipynb) : 
   - A 2-class classification neural network with a single hidden layer
-  - Implemented forward and backward propagation, tanh, and cross entropy loss gradient descent using pure numpy.
+  - Implement forward and backward propagation, tanh, and cross entropy loss gradient descent using pure numpy.
+- [Building your Deep Neural Network: Step by Step](https://github.com/XuShaoming/Deeplearning_io/blob/master/Neural_Networks_and_Deep_Learning/Building%2Byour%2BDeep%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2Bv8.ipynb)
+  - Build L-layer neural network (L >= 1)
+  - Implement an easy-to-use neural network class. Use non-linear units like ReLU to improve model.
+- [Deep Neural Network - Application](https://github.com/XuShaoming/Deeplearning_io/blob/master/Neural_Networks_and_Deep_Learning/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
+  - Used the L-layer neural network to classifies cat vs. non-cat images.
+ 
+
   
 
 
