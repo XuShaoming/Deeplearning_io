@@ -51,7 +51,8 @@ You can see the projects by clicking the hyperlinks below.
 
 **Course 5: Sequence Models**
 - [Building a recurrent neural network - step by step](https://github.com/XuShaoming/Deeplearning_io/blob/master/Sequence_Models/Building%2Ba%2BRecurrent%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2B-%2Bv3.ipynb)
-  - Implement Recurrent Neural Network in numpy, including both forward propagation and backward propagation.
+  - Implement both RNN and LSTM from scratch in numpy, including forward propagation and backward propagation.
+
  
 
   
