@@ -42,7 +42,14 @@ You can see the projects by clicking the hyperlinks below.
 - [Residual Networks](https://github.com/XuShaoming/Deeplearning_io/blob/master/Convolutional_Neural_Networks/Residual%2BNetworks%2B-%2Bv2.ipynb)
   - Implement basic building blocks of ResNets to achieve the state-of-the-art neural network (50 layers) for image classification. 
 - [Car detection with YOLOv2](https://github.com/XuShaoming/Deeplearning_io/blob/master/Convolutional_Neural_Networks/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb)
-  - Use YOLO object detection model on a car detection dataset and label cars by bounding boxes.
+  - Implement YOLO object detection model on a car detection dataset and label cars by bounding boxes.
+- [Face Recognition for the Happy House](https://github.com/XuShaoming/Deeplearning_io/blob/master/Convolutional_Neural_Networks/Face%2BRecognition%2Bfor%2Bthe%2BHappy%2BHouse%2B-%2Bv3.ipynb)
+  - Implement the triplet loss function. And use a pretrained model to map face images into 128-dimensional encodings to perform face verification and face recognition.
+- [Art generation with Neural Style Transfer](https://github.com/XuShaoming/Deeplearning_io/blob/master/Convolutional_Neural_Networks/Art%2BGeneration%2Bwith%2BNeural%2BStyle%2BTransfer%2B-%2Bv2.ipynb)
+  - Implement the neural style transfer algorithm to generate novel artistic images.
+  - Use the Transfer Learning idiom on VGG-19 to achieve this algorithm.
+- [Building a recurrent neural network - step by step](https://github.com/XuShaoming/Deeplearning_io/blob/master/Sequence_Models/Building%2Ba%2BRecurrent%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2B-%2Bv3.ipynb)
+  - Implement Recurrent Neural Network in numpy, including both forward propagation and backward propagation.
  
 
   
