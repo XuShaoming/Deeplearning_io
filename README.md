@@ -33,7 +33,17 @@ You can see the projects by clicking the hyperlinks below.
 - Does not have programming assignment.
 
 **Course 4: Convolutional Neural Networks**
-- 
+- [Convolutional Model: step by step](https://github.com/XuShaoming/Deeplearning_io/blob/master/Convolutional_Neural_Networks/Convolution%2Bmodel%2B-%2BStep%2Bby%2BStep%2B-%2Bv2.ipynb)
+  - implement convolutional (CONV) and pooling (POOL) layers in numpy, including both forward propagation and backward propagation.
+- [Convolutional Model: application](https://github.com/XuShaoming/Deeplearning_io/blob/master/Convolutional_Neural_Networks/Convolution%2Bmodel%2B-%2BApplication%2B-%2Bv1.ipynb)
+  - Implement a fully functioning ConvNet using TensorFlow.
+- [Keras Tutorial - The Happy House](https://github.com/XuShaoming/Deeplearning_io/blob/master/Convolutional_Neural_Networks/Keras%2B-%2BTutorial%2B-%2BHappy%2BHouse%2Bv2.ipynb)
+  - Learn Keras by implementing ConvNet to detect Happy or not Happy face expression.
+- [Residual Networks](https://github.com/XuShaoming/Deeplearning_io/blob/master/Convolutional_Neural_Networks/Residual%2BNetworks%2B-%2Bv2.ipynb)
+  - Implement basic building blocks of ResNets to achieve the state-of-the-art neural network (50 layers) for image classification. 
+- [Car detection with YOLOv2](https://github.com/XuShaoming/Deeplearning_io/blob/master/Convolutional_Neural_Networks/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb)
+  - Use YOLO object detection model on a car detection dataset and label cars by bounding boxes.
+ 
 
   
   
