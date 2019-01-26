@@ -62,7 +62,7 @@ You can see the projects by clicking the hyperlinks below.
 - [Emojify](https://github.com/XuShaoming/Deeplearning_io/blob/master/Sequence_Models/Emojify%2B-%2Bv2.ipynb)
   - Implement word vector representations and a deep LSTM network to build an Emojifier using Keras. 
 - [Neural Machine Translation with Attention](https://github.com/XuShaoming/Deeplearning_io/blob/master/Sequence_Models/Neural%2Bmachine%2Btranslation%2Bwith%2Battention%2B-%2Bv4.ipynb)
-  - Build a Attention model, the state of the art Neural Machine Translation (NMT) model, to translate human readable dates ("25th of June, 2009") into machine readable dates ("2009-06-25").
+  - Build a Attention model, the state of the art Neural Machine Translation (NMT) model, to translate human readable dates such as ("25th of June, 2009") into machine readable dates ("2009-06-25").
 - [Trigger word detection](https://uxmouwhrhztcdfzyddytkd.coursera-apps.org/notebooks/Week%203/Trigger%20word%20detection/Trigger%20word%20detection%20-%20v1.ipynb#)
   - Implement algorithms to synthesize and process audio recordings to create train/dev datasets.
   - Implement a model using 1D conv layer and deep GRU RNN to detect trigger word in audio recordings.
