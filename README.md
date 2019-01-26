@@ -48,6 +48,8 @@ You can see the projects by clicking the hyperlinks below.
 - [Art generation with Neural Style Transfer](https://github.com/XuShaoming/Deeplearning_io/blob/master/Convolutional_Neural_Networks/Art%2BGeneration%2Bwith%2BNeural%2BStyle%2BTransfer%2B-%2Bv2.ipynb)
   - Implement the neural style transfer algorithm to generate novel artistic images.
   - Use the Transfer Learning idiom on VGG-19 to achieve this algorithm.
+
+**Course 5: Sequence Models**
 - [Building a recurrent neural network - step by step](https://github.com/XuShaoming/Deeplearning_io/blob/master/Sequence_Models/Building%2Ba%2BRecurrent%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2B-%2Bv3.ipynb)
   - Implement Recurrent Neural Network in numpy, including both forward propagation and backward propagation.
  
