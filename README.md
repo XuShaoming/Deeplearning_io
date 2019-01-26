@@ -52,6 +52,13 @@ You can see the projects by clicking the hyperlinks below.
 **Course 5: Sequence Models**
 - [Building a recurrent neural network - step by step](https://github.com/XuShaoming/Deeplearning_io/blob/master/Sequence_Models/Building%2Ba%2BRecurrent%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2B-%2Bv3.ipynb)
   - Implement both RNN and LSTM from scratch in numpy, including forward propagation and backward propagation.
+- [Dinosaur Island - Character-Level Language Modeling](https://github.com/XuShaoming/Deeplearning_io/blob/master/Sequence_Models/Dinosaurus%2BIsland%2B--%2BCharacter%2Blevel%2Blanguage%2Bmodel%2Bfinal%2B-%2Bv3.ipynb)
+  - Implement data preprocessing gradients clipping, output sampling to enable a trained RNN to generate Dinosaur Name.
+- [Jazz improvisation with LSTM](https://github.com/XuShaoming/Deeplearning_io/blob/master/Sequence_Models/Improvise%2Ba%2BJazz%2BSolo%2Bwith%2Ban%2BLSTM%2BNetwork%2B-%2Bv3.py)
+  - Build an LSTM model to generate music using Keras.
+- [Operations on word vectors - Debiasing](https://github.com/XuShaoming/Deeplearning_io/blob/master/Sequence_Models/Operations%2Bon%2Bword%2Bvectors%2B-%2Bv2.ipynb)
+  - Use word embeddings to solve word analogy problems such as Man is to Woman as King is to __ by cosine similarity.
+  - Modify word embeddings to reduce their gender bias.
 
  
 
