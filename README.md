@@ -59,6 +59,9 @@ You can see the projects by clicking the hyperlinks below.
 - [Operations on word vectors - Debiasing](https://github.com/XuShaoming/Deeplearning_io/blob/master/Sequence_Models/Operations%2Bon%2Bword%2Bvectors%2B-%2Bv2.ipynb)
   - Use word embeddings to solve word analogy problems such as Man is to Woman as King is to __ by cosine similarity.
   - Modify word embeddings to reduce their gender bias.
+- [Emojify](https://github.com/XuShaoming/Deeplearning_io/blob/master/Sequence_Models/Emojify%2B-%2Bv2.ipynb)
+  - Implement word vector representations and a deep LSTM network to build an Emojifier using Keras. 
+
 
  
 
